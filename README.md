@@ -46,5 +46,4 @@ print("Enferma" if result['anomaly'] else "Sana ✓")
 
 **Jerson Ricardo Lopez Amaya** · UNAH · jerson.amaya@unah.hn
 
----
-<p align="center">Desarrollado para la seguridad alimentaria de Honduras 🇭🇳</p>
+
