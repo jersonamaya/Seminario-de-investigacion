@@ -44,6 +44,6 @@ print("Enferma" if result['anomaly'] else "Sana ✓")
 
 ## Autor
 
-**Jerson Ricardo Lopez Amaya** · UNAH · jerson.amaya@unah.hn
+**Jerson Ricardo Lopez Amaya** 
 
 
